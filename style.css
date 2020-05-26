@@ -1,0 +1,55 @@
+
+.lik {
+    background-color: #275593;
+    display: flex;
+    justify-content: space-around;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    background-color:#110C0B;
+    font-family: cursive;
+
+}
+h2{
+    color: white;
+    background-color:#110C0B;
+    display: flex;
+    justify-content: center;
+}
+.main{
+     background-color:#F5F5F5;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+    position: relative;
+    font-family: cursive;
+    margin: 20px;
+    padding-left: 20px;
+}
+.tex{
+  
+    display: flex;
+    justify-content: center;
+    
+
+}
+.main:hover img{
+    opacity: 0.2;
+}
+.main p{
+    font-family: fantasy;
+    opacity: 0;
+    position: absolute;
+    bottom: 100px;
+}
+.main:hover p{
+    opacity: 1;
+
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color: red;
+}

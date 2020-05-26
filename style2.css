@@ -1,0 +1,176 @@
+.lik {
+    background-color:#275593;
+    font-family: cursive;
+  
+    padding-left: 30px;
+}
+.photos1{
+    position: relative;
+}
+.photos1 img{
+    opacity: 1;
+}
+.photos1:hover img{
+    opacity: 0.1;
+}
+.photos1 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    font-family: cursive;
+}
+.photos1:hover p{
+    opacity: 1;
+}
+.photos2{
+    position: relative;
+}
+.photos2 img{
+    opacity: 1;
+    position: absolute;
+    left: 210px;
+    bottom: 5px;
+}
+.photos2:hover img{
+    opacity: 0.1;
+}
+.photos2 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 280px;
+    font-family: cursive;
+}
+.photos2:hover p{
+    opacity: 1;
+}
+.photos3{
+    position: relative;
+}
+.photos3 img{
+    opacity: 1;
+    position: absolute;
+    left: 420px;
+    bottom: 5px;
+}
+.photos3:hover img{
+    opacity: 0.1;
+}
+.photos3 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left:  480px;;
+    font-family: cursive;
+}
+.photos3:hover p{
+    opacity: 1;
+}
+.photos4{
+    position: relative;
+}
+.photos4 img{
+    opacity: 1;
+    position: absolute;
+    left: 630px;
+    bottom: 5px;
+}
+.photos4:hover img{
+    opacity: 0.1;
+}
+.photos4 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 670px;
+    font-family: cursive;
+}
+.photos4:hover p{
+    opacity: 1;
+}
+.photos5{
+    position: relative;
+}
+.photos5 img{
+    opacity: 1;
+    position: absolute;
+    left:840px;
+    bottom: 5px;
+}
+.photos5:hover img{
+    opacity: 0.1;
+}
+.photos5 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 880px;
+    font-family: cursive;
+}
+.photos5:hover p{
+    opacity: 1;
+}
+.photos6{
+    position: relative;
+}
+.photos6 img{
+    opacity: 1;
+    position: absolute;
+    bottom: 5px;
+    left: 1000px
+}
+.photos6:hover img{
+    opacity: 0.1;
+}
+.photos6 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 1050px;
+    font-family: cursive;
+}
+.photos6:hover p{
+    opacity: 1;
+}
+.photos7{
+    position: relative;
+}
+.photos7 img{
+    opacity: 1;
+}
+.photos7:hover img{
+    opacity: 0.1;
+}
+.photos7 p{
+    opacity: 0;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    font-family: cursive;
+}
+.photos7:hover p{
+    opacity: 1;
+}
+.photos8{
+    position: relative;
+}
+.photos8 img{
+    opacity: 1;
+    position: absolute;
+    left: 210px;
+    bottom: 5px;
+}
+.photos8:hover img{
+    opacity: 0.1;
+}
+.photos8 p{
+    opacity: 0;
+    position: absolute;
+    bottom:50px;
+    left: 270px;
+    font-family: cursive;
+}
+.photos8:hover p{
+    opacity: 1;
+}
